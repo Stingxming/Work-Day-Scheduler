@@ -19,3 +19,9 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+### Repo Links:
+
+Deployed: https://stingxming.github.io/Work-Day-Scheduler/
+
+Github Repo: https://github.com/Stingxming/Work-Day-Scheduler
